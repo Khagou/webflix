@@ -9,8 +9,8 @@
 <body>
     <ul>
         <li><a href="/">Accueil</a></li>
-        <li><a href="/bonjour/$name">Bonjour</a></li>
-        <li><a href="/good-bye">Aurevoir</a></li>
+        <li><a href="/exercice/categories">Catégories</a></li>
+        <li><a href="/exercice/movies">Films</a></li>
         <li><a href="/a-propos">A propos</a></li>
     </ul>
     @yield('content')
